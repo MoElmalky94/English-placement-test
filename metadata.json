@@ -1,0 +1,5 @@
+{
+  "name": "English Level Placement Test",
+  "description": "An interactive web application to assess English language proficiency from A1 to C1. The test includes listening, grammar, and vocabulary sections, providing an estimated CEFR level upon completion.",
+  "requestFramePermissions": []
+}
